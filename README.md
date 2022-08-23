@@ -11,9 +11,9 @@ programming.</br>
 <!-- 💞️ I’m looking to collaborate on github. </br>
  -->
 <div>
-<img src="https://www.vkreate.in/storage/services_image/2019-10-01-13-58-44-5d935b94dd6b5-app-development.gif" height=350 width=300></img>
-<img src="https://sagaratechnology.com/blog/wp-content/uploads/2022/03/service2.gif" height=300 width=350></img>
-<img src="https://thynxlabs.com/wp-content/uploads/2020/02/app-development.gif" height=300 width=350></img>
+<img src="https://www.vkreate.in/storage/services_image/2019-10-01-13-58-44-5d935b94dd6b5-app-development.gif" height=300 width=300></img>
+<img src="https://sagaratechnology.com/blog/wp-content/uploads/2022/03/service2.gif" height=300 width=300></img>
+<img src="https://thynxlabs.com/wp-content/uploads/2020/02/app-development.gif" height=300 width=300></img>
 </div>
 </p>
 
